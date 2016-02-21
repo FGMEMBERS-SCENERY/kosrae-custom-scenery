@@ -1,0 +1,17 @@
+# osm2roads__home_delta_Kosrae_osm
+# do not edit below this line
+# Last Written Sun Feb 21 14:11:58 2016
+#
+OBJECT_STATIC _home_delta_Kosrae_osmroads2817.xml 163.01439 5.31650 48.73 0
+OBJECT_STATIC _home_delta_Kosrae_osmroads2818.xml 163.01439 5.33459 2.38 0
+OBJECT_STATIC _home_delta_Kosrae_osmroads2819.xml 163.01439 5.35267 43.16 0
+OBJECT_STATIC _home_delta_Kosrae_osmroads2918.xml 163.03244 5.33459 -0.00 0
+# END osm2roads__home_delta_Kosrae_osm
+# osm2city__home_delta_Kosrae_osm
+# do not edit below this line
+# Last Written Sun Feb 21 14:12:19 2016
+#
+OBJECT_STATIC _home_delta_Kosrae_osmcity1715.xml 163.01394 5.33933 36.66 0
+OBJECT_STATIC lightmap-switch.xml 163.01394 5.33933 36.66 0
+OBJECT_STATIC _home_delta_Kosrae_osmcity1716.xml 163.01394 5.35741 6.37 0
+# END osm2city__home_delta_Kosrae_osm
